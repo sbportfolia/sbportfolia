@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sbportfolia
-- 👀 I’m interested in ... expanding my knowledge, and music that makes me want to move
-- 🌱 I’m currently learning ... java, japanese, and patience
-- 💞️ I’m looking to collaborate on ... anything!
+- 👀 I’m interested in ... virtual reality, web development, and AI
+- 🌱 I’m currently learning ... java, jandroid app development, web development, and patience
+- 💞️ I’m looking to collaborate on ... anything related to my interests or current projects
 - 📫 How to reach me ... inquiry.sdb@gmail.com
 
 <!---
